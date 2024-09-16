@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/propsfolio/static/css/main.86e6e063.css",
+    "main.js": "/propsfolio/static/js/main.4925145c.js",
+    "static/media/temp01_bg.jpg": "/propsfolio/static/media/temp01_bg.229c82c8bbd4538695c0.jpg",
+    "static/media/BrittanySignature.ttf": "/propsfolio/static/media/BrittanySignature.0d8ad040c68381fe6600.ttf",
+    "index.html": "/propsfolio/index.html",
+    "main.86e6e063.css.map": "/propsfolio/static/css/main.86e6e063.css.map",
+    "main.4925145c.js.map": "/propsfolio/static/js/main.4925145c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e6e063.css",
+    "static/js/main.4925145c.js"
+  ]
+}
